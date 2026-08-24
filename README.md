@@ -2,9 +2,9 @@
 Este projeto foi desenvolvido para a promoção de aniversário da empresa Madeira e Cia Ltda., aplicando descontos diferentes conforme a forma de pagamento escolhida pelo cliente.
 
 📂 Estrutura do Projeto
-index.html → Página principal com o formulário para coleta dos dados do cliente.
+madeira.html → Página principal com o formulário para coleta dos dados do cliente.
 
-style.css → Arquivo de estilos para personalizar o layout do formulário.
+estilo.css → Arquivo de estilos para personalizar o layout do formulário.
 
 processa.php → Script PHP responsável por processar os dados, calcular os descontos e exibir a mensagem final ao cliente.
 
@@ -36,7 +36,7 @@ Certifique-se de ter um servidor PHP (ex: XAMPP, WAMP ou similar).
 
 Coloque os arquivos na pasta htdocs (ou equivalente).
 
-Acesse http://localhost/index.html no navegador.
+Acesse http://localhost/madeira.html no navegador.
 
 Preencha o formulário e teste cada forma de pagamento.
 
